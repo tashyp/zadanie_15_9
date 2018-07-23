@@ -1,0 +1,30 @@
+body {
+	background-color: #DFE7FF;
+	text-align: center;
+}
+
+h1 {
+	;
+}
+
+h2 {
+	;
+}
+
+input {
+    width: 300px;
+    border: 1px solid black;
+}
+input:hover {
+    border: 2px solid blue;
+}
+
+.usersListstyle {
+    text-align: center;
+    padding: 5px;
+    border: 2px solid red;
+    margin: 2px 0px;
+    border-radius: 10px;
+    width: 250px;
+    height: 150px;
+}
